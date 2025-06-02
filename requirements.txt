@@ -14,7 +14,7 @@ azure-mgmt-keyvault==10.3.1
 azure-mgmt-network==28.1.0
 azure-mgmt-resource==23.3.0
 azure-mgmt-storage==22.2.0
-azureml-automl-core==1.49.0
+azureml-automl-core==1.60.0
 azureml-core==1.60.0
 azureml-dataprep==5.1.6
 azureml-dataprep-native==41.0.0
