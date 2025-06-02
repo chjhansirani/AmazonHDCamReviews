@@ -4,7 +4,7 @@ applicationinsights==0.11.10
 argcomplete==3.6.2
 attrs==25.3.0
 azure-common==1.1.28
-azure-core==1.33.0
+azure-core==1.60
 azure-graphrbac==0.61.2
 azure-identity==1.21.0
 azure-mgmt-authorization==4.0.0
